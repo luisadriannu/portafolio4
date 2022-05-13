@@ -1,0 +1,254 @@
+body{
+    background-color: #6F00FF;
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    header{
+        text-align: center;
+        border: 3px solid black;
+        border-radius: 8px;
+    }
+    
+    .menu{
+        list-style: none;
+        padding: 0;
+        border: 3px solid black;
+        width: 90%;
+        max-width: 1000px;
+        margin: auto;
+        border-radius: 8px;
+    }
+    .menu2{
+        position: absolute;
+        width: 120%;
+        bottom: 75%;
+        left: -10%;
+    }
+    
+    .menu li a{
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        display: block;
+    }
+    
+    .menu li{
+        display: inline-block;
+        text-align: center;
+    }
+    
+    .menu li a:hover{
+        background: white;
+        transition: 0.5s;
+        color: white;
+        border-radius: 5px;
+        color: #000000;
+    }
+
+    /*CODIGOS SECTION*/
+    section{
+        
+        width: 680px;
+        height: 699px;
+        position: absolute;
+        right: 36%;
+        bottom: -112.5%;
+        border-radius: 8px;
+       
+    }
+    .dedico{
+        border: 3px solid black;
+        border-radius: 8px;
+        width: 100%;
+        height: 26%;
+    }
+    .cuadro1{
+        position: absolute;
+        left: 2%;
+    }
+
+    .habilidades{
+        border: 3px solid black;
+        height: 43%;
+        width: 100%;
+        border-radius: 8px;
+        position: absolute;
+        top: 29%;
+    }
+
+    .hab{
+        position: absolute;
+        left: 2%;
+    }
+    .deportes{
+        position: absolute;
+        right: 69%;
+        bottom: 15%;
+    }
+
+    .textLD{
+        position: absolute;
+        bottom: -2%;
+        right: 70.5%;
+    }
+
+    .huarache{
+        position: absolute;
+        right: 32%;
+        border-radius: 20px;
+        bottom: 15%;
+    }
+
+    .textH{
+        position: absolute;
+        right: 44%;
+        bottom: -2%;
+    }
+
+    .photo{
+        position: absolute;
+        right: 4%;
+        bottom: 15%;
+    }
+
+    .textph{
+        position: absolute;
+        bottom: -2%;
+        right: 7%;
+    }
+
+    .lenguaje{
+        border-radius: 8px;
+        border: 3px solid black;
+        position: absolute;
+        bottom: -18.9%;
+        width: 100%;
+        height: 43%;
+    }
+
+    .hel{
+        position: absolute;
+        left: 2%;
+    }
+
+    .netbeans{
+        position: absolute;
+        top: 25%;
+        left: 5%;   
+    }
+    
+    .textnet{
+        position: absolute;
+        bottom: 18%;
+        left: 8%;
+    }
+    
+    .adobe{
+        position: absolute;
+        top: 29%;
+        left: 25%;
+    }
+
+    .textadobe{
+        position: absolute;
+        bottom: 18%;
+        left: 28%;
+    }
+
+    .visual{
+        position: absolute;
+        left: 55%;
+        bottom: 36%;
+    }
+
+    .textcode{
+        position: absolute;
+        bottom: 18%;
+        left: 56%;
+    }
+
+    .visualstudio{
+        position: absolute;
+        right: 5%;
+        top: 28%;
+    }
+
+    .textVS{
+        position: absolute;
+        bottom: 18%;
+        left: 79%;
+    }
+
+    aside{
+        border: 3px solid black;
+        width: 300px;
+        height: 610px;
+        position: absolute;
+        right: 12.5%;
+        bottom: -99%;
+        text-align: center;
+        border-radius: 8px;
+    }
+    
+    footer{
+        border: 3px solid black;
+        bottom: -150%;
+        position: absolute;
+        width: 996px;
+        height: 80px;
+        right: 12.5%;
+        border-radius: 9px;
+    }
+    .program{
+        position: absolute;
+        right: 12.7%;
+        bottom: -134.5%;
+        border-radius: 8px;
+    }
+
+    .img{
+      position: absolute;
+      right: 12.8%;
+      border-radius: 8px;
+      bottom: 5%;
+    }
+    
+    .cuadroimg{
+        border-bottom: 3px solid black;
+    }
+
+  .programas{
+      position: absolute;
+      margin: 15px;
+      bottom: 5%;
+      right: 30%;
+  }
+ 
+.correoimg{
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+}
+  
+.port{
+    position: absolute;
+    bottom: 35%;
+    left: 5%;
+}   
+.correo{
+    position: absolute;
+    left: 9%;
+    bottom: 19%;
+}
+.cv{
+    position: absolute;
+    right: 14%;
+    bottom: 40%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.luiza{
+    border: 2px solid #000000;
+    border-radius:8px;
+}
